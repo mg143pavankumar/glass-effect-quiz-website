@@ -201,6 +201,10 @@ input[type='radio']:checked:after {
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
 
+    .logo {
+        top: 2.5%;
+    }
+
     .glass-div {
         width: 90%;
         padding: 3rem 5rem;
