@@ -34,7 +34,7 @@ html {
 .main-div {
     background: var(--bgGradientColor);
     min-height: 100vh;
-    width: 100vw;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -254,6 +254,10 @@ input[type='radio']:checked:after {
     .glass-div {
         width: 80%;
         padding: 3rem 5rem;
+    }
+
+    .glass-div h2 {
+        font-size: 2.4rem;
     }
 
 
