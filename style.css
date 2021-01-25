@@ -200,10 +200,6 @@ input[type='radio']:checked:after {
 /* for website responsive */
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-    .logo {
-        display: none;
-    }
-
 
     .glass-div {
         width: 90%;
@@ -212,7 +208,7 @@ input[type='radio']:checked:after {
     }
 
     .glass-div h2 {
-        font-size: 3rem;
+        font-size: 2.4rem;
         letter-spacing: .1rem;
         margin: 1rem 0 4rem 0;
         /* font-family: 'Libre Baskerville', serif; */
@@ -256,7 +252,5 @@ input[type='radio']:checked:after {
         padding: 3rem 5rem;
     }
 
-    .logo {
-        display: none;
-    }
+
 }
