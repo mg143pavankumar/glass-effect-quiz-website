@@ -61,7 +61,6 @@ html {
 
 .glass-div {
     background: #fff;
-    min-height: 70vh;
     width: 60%;
     background: var(--glassEffectColor);
     backdrop-filter: blur(var(--blurEffect));
@@ -201,6 +200,11 @@ input[type='radio']:checked:after {
 /* for website responsive */
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
+    .logo {
+        display: none;
+    }
+
+
     .glass-div {
         width: 90%;
         padding: 3rem 5rem;
@@ -250,5 +254,9 @@ input[type='radio']:checked:after {
     .glass-div {
         width: 80%;
         padding: 3rem 5rem;
+    }
+
+    .logo {
+        display: none;
     }
 }
