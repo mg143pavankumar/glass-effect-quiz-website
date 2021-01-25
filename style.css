@@ -1,11 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&family=Montserrat&family=Open+Sans:wght@600&display=swap');
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Libre Baskerville', serif;
-    font-weight: 300;
+    font-weight: 600 !important;
     -webkit-user-select: none;
     /* Safari */
     -ms-user-select: none;
@@ -74,9 +73,12 @@ html {
 }
 
 .glass-div h2 {
-    font-size: 3.5rem;
-    font-weight: 700;
+    font-size: 3.2rem;
+    letter-spacing: .1rem;
     margin: 1rem 0 4rem 0;
+    /* font-family: 'Libre Baskerville', serif; */
+    font-family: 'Montserrat', sans-serif;
+
 }
 
 .glass-div li {
@@ -84,6 +86,7 @@ html {
     font-weight: 500;
     list-style: none;
     margin-bottom: 2rem;
+    font-family: 'Open Sans', sans-serif;
 }
 
 input[type="radio"] {
