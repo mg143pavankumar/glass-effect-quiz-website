@@ -49,7 +49,7 @@ function reportStatus() {
 
     submit.addEventListener("click", () => {
       const checkAnswer = getCheckAnswer();
-      //   console.log(checkAnswer);
+      // console.log(checkAnswer);
 
       if (checkAnswer === getQuestion[questionCount].ans) {
         score++;
