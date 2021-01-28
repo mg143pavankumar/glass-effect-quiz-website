@@ -46,5 +46,77 @@
         "c": " Bjarne Stroustrup",
         "d": " Brian Kernighan",
         "ans": "ans3"
+    },
+    {
+        "question": "Q7:Which of the following is the correct syntax to add the header file in the C++ program?",
+        "a": " #include < userdefined>",
+        "b": " #include \"userdefined.h\" ",
+        "c": " < include > \"userdefined.h \" ",
+        "d": " Both A and B",
+        "ans": "ans4"
+    },
+    {
+        "question": "Q8:Which of the following is the correct syntax to read the single character to console in the C++ language?",
+        "a": " Read ch()",
+        "b": " Getline vh() ",
+        "c": " get(ch) ",
+        "d": " Scanf(ch)",
+        "ans": "ans3"
+    },
+    {
+        "question": "Q9:Which of the following statements is correct about the formal parameters in C++?",
+        "a": " Parameters with which functions are called",
+        "b": " Parameters which are used in the definition of the function ",
+        "c": " Variables other than passed parameters in a function ",
+        "d": " Variables that are never used in the function",
+        "ans": "ans1"
+    },
+    {
+        "question": "Q10:The C++ language is ______ object-oriented language.",
+        "a": " Pure Object oriented",
+        "b": " Not Object oriented",
+        "c": " Semi Object-oriented or Partial Object-oriented ",
+        "d": " None of the above",
+        "ans": "ans3"
+    },
+    {
+        "question": "Q11:Which of the following comment syntax is correct to create a single-line comment in the C++ program?",
+        "a": " //Comment",
+        "b": " /Comment/",
+        "c": " Comment// ",
+        "d": " None of the above",
+        "ans": "ans1"
+    },
+    {
+        "question": "Q12:C++ is a ___ type of language.",
+        "a": " High-level language",
+        "b": " Low-level language",
+        "c": " Middle-level language ",
+        "d": " None of the above",
+        "ans": "ans3"
+    },
+    {
+        "question": "Q13:For inserting a new line in C++ program, which one of the following statements can be used?",
+        "a": " \\n",
+        "b": " \\r",
+        "c": " \\a ",
+        "d": " None of the above",
+        "ans": "ans1"
+    },
+    {
+        "question": "Q14:Which one of the following represents the tab?",
+        "a": " \\n",
+        "b": " \\t",
+        "c": " \\r",
+        "d": " None of the above",
+        "ans": "ans2"
+    },
+    {
+        "question": "Q15:Which of the following refers to characteristics of an array?",
+        "a": " An array is a set of similar data items",
+        "b": " An array is a set of distinct data items",
+        "c": " An array can hold different types of datatypes ",
+        "d": " None of the above",
+        "ans": "ans1"
     }
 ]
