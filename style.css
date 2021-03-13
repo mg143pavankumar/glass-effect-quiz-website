@@ -65,8 +65,7 @@ html {
     background: var(--glassEffectColor);
     backdrop-filter: blur(var(--blurEffect));
     border-radius: 2rem;
-    border-top: .3rem solid rgba(225, 225, 225, 0.8);
-    border-left: .3rem solid rgba(225, 225, 225, 0.8);
+    border: .3rem solid rgba(225, 225, 225, 0.8);
     padding: 3rem 8rem;
     z-index: 2;
 
